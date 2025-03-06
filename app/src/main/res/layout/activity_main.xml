@@ -27,7 +27,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
     <TextView
-        android:id="@+id/tv2_smurf"
+        android:id="@+id/tv3_kirill"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="Hello World!"
